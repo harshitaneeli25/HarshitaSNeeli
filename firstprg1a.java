@@ -1,4 +1,6 @@
-package firstprg;
+//1. Write a java program for getting different colors through ArrayList interface and search whether
+//the color &quot;Red&quot; is available or notpackage firstprg;
+
 import java.util.ArrayList;
 public class firstprg1a {
 	public static void main(String[] args) {
