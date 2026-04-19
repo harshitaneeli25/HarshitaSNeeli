@@ -19,3 +19,5 @@ p7.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%
 p8.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20094245.png
 
 p9.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20094258.png
+
+p10.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20094310.png
