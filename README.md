@@ -38,7 +38,7 @@ CountryCapitalList.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/
 
 ColorTabbed1.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20101520.png
 
-
+ColortTabbed2.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20101807.png
 
 
 
