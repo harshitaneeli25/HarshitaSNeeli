@@ -40,7 +40,7 @@ ColorTabbed1.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/S
 
 ColortTabbed2.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20101807.png
 
-String Exercise progams.java: 
+String Exercise progams.java: https://github.com/harshitaneeli25/HarshitaSNeeli/blob/main/Screenshot%202026-04-19%20102054.png
 
 
 
